@@ -5,6 +5,6 @@
   "version": "1.0.0",
   "action": {
     "title": "Ficha D&D",
-    "popover": "index.html"
+    "url": "index.html"
   }
 }
