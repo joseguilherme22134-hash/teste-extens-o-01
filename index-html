@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ferramenta TTRPG</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="app">
+        <h1>Painel de Controle</h1>
+        <div id="content">
+            <!-- Os elementos da interface entram aqui -->
+        </div>
+    </div>
+
+    <!-- SDK do Owlbear Rodeo -->
+    <script src="https://sandbox.owlbear.rodeo/sdks/obr-sdk.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
