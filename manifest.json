@@ -1,0 +1,10 @@
+{
+  "manifest_version": 1,
+  "id": "com.github.joseguilherme22134-hash.teste-extens-o-01",
+  "name": "Ficha D&D",
+  "version": "1.0.0",
+  "action": {
+    "title": "Ficha D&D",
+    "popover": "index.html"
+  }
+}
